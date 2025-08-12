@@ -7,7 +7,7 @@ edition = "2024"
 anyhow = "1.0.98"
 ar = "0.9.0"
 chrono = { version = "0.4.41", features = ["serde"] }
-clap = { version = "4.5.41", features = ["derive"] }
+clap = { version = "4.5.44", features = ["derive"] }
 dialoguer = "0.11.0"
 env_logger = "0.11.8"
 file-format = "0.27.0"
